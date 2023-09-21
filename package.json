@@ -1,0 +1,13 @@
+{
+    "name": "Prembly Asessment",
+    "version": "1.0.0",
+    "description": "specifically visiting the saucedemo.com website, to log in and verify item sorting based on various criteria (A to Z and Z to A)",
+    "scripts": {
+      "test": "cypress open",
+      "test:headless": "cypress run"
+    },
+    "devDependencies": {
+      "cypress": "^8.2.0"
+    }
+  }
+  
